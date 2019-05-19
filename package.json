@@ -1,0 +1,26 @@
+{
+  "name": "generate-abnf",
+  "version": "1.0.0",
+  "description": "Pulls ABNF from tagged Markdown files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kibi-network/generateABNF.git"
+  },
+  "keywords": [
+    "abnf"
+  ],
+  "author": "Kyebego",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/kibi-network/generateABNF/issues"
+  },
+  "homepage": "https://github.com/kibi-network/generateABNF#readme",
+  "dependencies": {
+    "apg": "^3.1.1",
+    "chalk": "^2.4.2"
+  }
+}
